@@ -1,4 +1,4 @@
-### Microservices-Docker-Compose
+## Microservices-Docker-Compose
 
 #### Description:
 ###### Containerize microservices using Docker and orchestrate them with Docker Compose. This project demonstrates the implementation of a microservices architecture where each service is encapsulated within a Docker container. The services communicate with each other, and the entire application stack is defined and managed using Docker Compose.
